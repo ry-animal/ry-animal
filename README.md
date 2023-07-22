@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/-Golang-181717?style=flat-square&logo=go)
 
 ## 🙋‍♀️ Let's Connect
 
