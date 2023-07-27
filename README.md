@@ -7,7 +7,7 @@
 - 🍻 cheers!
 
 ## 🛠️ My Stack
-![JavaScript](https://img.shields.io/badge/-Typescript-%232272F9?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%232272F9)
+![JavaScript](https://img.shields.io/badge/-Typescript-%232272F9?style=flat-square&logo=typescript&logoColor=000000&labelColor=%232272F9&color=%232272F9)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
