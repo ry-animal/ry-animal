@@ -4,7 +4,7 @@
 - 📄 blockend (react + ethers/viem || solidity smart contracts) too
 - ☁️ prefer cloud native - serverless platforms and functions
 - 🤝 reach out if looking to collaborate
-- 🍻 cheers!
+- 🍻 cheers!!
 
 ## 🛠️ My Stack
 ![JavaScript](https://img.shields.io/badge/-Typescript-%232272F9?style=flat-square&logo=typescript&logoColor=000000&labelColor=%232272F9&color=%232272F9)
