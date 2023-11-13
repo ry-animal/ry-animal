@@ -1,0 +1,18 @@
+repo_name: ry-animal/ry-animal
+report_id: 0b2b074f246bf209fb76587c84c071d7
+repo_type: Public
+timestamp: '2023-11-09T16:49:29+00:00'
+requested_by: ry-animal
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
