@@ -1,7 +1,8 @@
 repo_name: ry-animal/ry-animal
-report_id: d4d837cb70f7a629303651d73fcccb4d
+report_id: 0b2b074f246bf209fb76587c84c071d7
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:46:51+00:00'
+timestamp: '2024-01-04T15:06:21+00:00'
 requested_by: ry-animal
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ry-animal/ry-animal
   detection_source: Repo Metadata
