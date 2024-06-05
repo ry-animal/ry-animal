@@ -1,6 +1,6 @@
 # 👋 Hello, welcome to my github page
 - 🌴 stay awhile and take a peek at what i've been working on
-- 💻 a lot of typescript-based projects, but I'm trying to write more go and rust
+- 💻 a lot of typescript-based projects, but I'm trying to write more go, rust and even python
 - 📄 blockend (react + ethers/viem && solidity smart contracts) too
 - ☁️ prefer cloud native - serverless platforms and functions
 - 🤝 reach out if looking to collaborate
