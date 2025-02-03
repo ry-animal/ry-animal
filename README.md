@@ -4,7 +4,7 @@
 - ⛓️ blockend (react + ethers/viem && solidity smart contracts) too
 - ☁️ prefer cloud native - serverless platforms and functions
 - 🤝 reach out if looking to collaborate
-- 🍻 cheers!
+# 🍻 cheers!
 
 ## 🙋‍♀️ Let's Connect
 
