@@ -2,7 +2,7 @@
 - 🌴 stay awhile and take a peek at what i've been working on
 - 💻 TS, Go, Rust, and Python projects, haven't touched Java and C# in years
 - ⛓️ blockend (react + ethers/viem && solidity smart contracts)
-- 🤖 AI development with varying LLMs
+- 🤖 AI development with varying LLMs and MPCs
 - ☁️ prefer cloud native - serverless platforms and functions mostly in AWS
 - 🤝 reach out if looking to collaborate
 # 🍻 cheers!
