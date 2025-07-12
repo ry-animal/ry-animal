@@ -1,6 +1,6 @@
 # 👋 hello, welcome to my github page
 - 🌴 stay awhile and take a peek at what i've been working on
-- 💻 TS/JS, Go, Rust, and Python projects, haven't touched Java and C# in years
+- 💻 Mainly TS/JS, Go, Rust, and Python projects.
 - ⛓️ blockend (react + ethers/viem && solidity smart contracts)
 - 🤖 AI development with varying LLMs and MPCs
 - ☁️ prefer cloud native - serverless platforms and functions mostly in AWS
