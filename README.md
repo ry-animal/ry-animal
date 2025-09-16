@@ -5,7 +5,6 @@
 - 🤖 AI development with varying LLMs and MPCs
 - ☁️ prefer cloud native - serverless platforms and functions mostly in AWS
 - 🤝 reach out if looking to collaborate
-- 🥷 stealth mode working on a project currently
 # 🍻 cheers!
 
 ## 🙋‍♀️ Let's Connect
