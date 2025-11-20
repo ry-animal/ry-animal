@@ -4,6 +4,7 @@
 - ⛓️ blockend (react + ethers/viem && solidity smart contracts)
 - 🤖 AI development with varying LLMs and MPCs
 - ☁️ prefer cloud native - serverless platforms and functions mostly in AWS
+- 🐭 lately working at Disney in their AI division, Agents, MPCs, LLMs, etc
 - 🤝 reach out if looking to collaborate
 # 🍻 cheers!
 
