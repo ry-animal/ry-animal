@@ -1,10 +1,10 @@
 # 👋 hello, welcome to my github page
 - 🌴 stay awhile and take a peek at what i've been working on
-- 💻 Mainly TS/JS, Go, Rust, and Python projects
+- 💻 mainly TS/JS, Python, Go, and Rust projects
+- 🤖 AI development with varying LLMs, RAG, Agents and MPCs
 - ⛓️ blockend (react + ethers/viem && solidity smart contracts)
-- 🤖 AI development with varying LLMs and MPCs
 - ☁️ prefer cloud native - serverless platforms and functions mostly in AWS
-- 🐭 lately working at Disney in their AI division, Agents, MPCs, LLMs, etc
+- 🐭 lately working at Disney on their AI Platform
 - 🤝 reach out if looking to collaborate
 # 🍻 cheers!
 
